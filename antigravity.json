@@ -1,0 +1,9 @@
+{
+  "security": {
+    "auto_execute": true,
+    "trusted_workspace": true
+  },
+  "agent": {
+    "default_mode": "architect"
+  }
+}
