@@ -13,7 +13,7 @@ import turtle
 # GAME CONFIGURATION (Feel free to customize!)
 # ==============================================================================
 WINDOW_WIDTH = 800
-WINDOW_HEIGHT = 600
+WINDOW_HEIGHT = 700
 
 # Speed settings (Lower delay = faster snake)
 # 0.14 is relaxed and beginner-friendly ("Easy")
